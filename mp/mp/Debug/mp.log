@@ -1,0 +1,14 @@
+﻿  Fox.cpp
+C:\Users\JC\source\repos\mp\mp\Fox.cpp(20,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\JC\source\repos\mp\mp\Fox.cpp(43,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\JC\source\repos\mp\mp\Fox.cpp(55,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\JC\source\repos\mp\mp\Fox.cpp(67,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\JC\source\repos\mp\mp\Fox.cpp(78,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Rabbit.cpp
+C:\Users\JC\source\repos\mp\mp\Rabbit.cpp(23,87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\JC\source\repos\mp\mp\Rabbit.cpp(43,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\JC\source\repos\mp\mp\Source.cpp(48,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JC\source\repos\mp\mp\Source.cpp(62,19): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  mp.vcxproj -> C:\Users\JC\source\repos\mp\Debug\mp.exe
