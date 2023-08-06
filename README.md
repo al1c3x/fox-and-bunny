@@ -10,3 +10,6 @@ A rabbit is removed from the board if the fox “eats” the rabbit. That is, if
 with a rabbit on the same tile.
 The game ends when the fox clears the board of all the rabbits (WIN) or when there are 50
 rabbits on the board(LOSE)oard. Every 3 steps of the fox, 
+![Uploading image.png…]()
+![image](https://github.com/al1c3x/fox-and-bunny/assets/80011970/d811ccfe-3398-4119-9a61-d926386d4fbc)
+
